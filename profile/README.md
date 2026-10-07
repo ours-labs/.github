@@ -1,5 +1,7 @@
 # OURS Labs
 
+English | [日本語](README.ja.md)
+
 OURS Labs is an independent engineering organization developing open-source tools, reference implementations, and technical experiments.
 
 Our work focuses on:
